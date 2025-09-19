@@ -87,7 +87,7 @@ while True:
             print(resultado)
 
     elif opcao == '4':
-        print("\nSaindo do programa. Até mais!")
+        print("\nPrograma encerrado")
         break
         
     else:
