@@ -55,3 +55,8 @@ while True:
                 print(f"Ponto {i}: {ponto}")
         else:
             print("\nA rota está vazia")
+    
+    elif opcao == '4':
+        print("\nSaindo do programa!")
+        break
+    
