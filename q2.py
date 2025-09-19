@@ -59,4 +59,5 @@ while True:
     elif opcao == '4':
         print("\nSaindo do programa!")
         break
-    
+    else:
+        print("\nOpção inválida, digite um número válido!")
