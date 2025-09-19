@@ -25,7 +25,7 @@ while True:
             novo_ponto = (x, y)
             rota.append(novo_ponto)
             print(f"\nPonto {novo_ponto} adicionado com sucesso")
-            print("Rota atual: " rota)
+            print("Rota atual: ", rota)
         except ValueError:
             print("\nEntrada inválida. Por favor, digite numeros p/ as coordenadas")
 
